@@ -17,7 +17,7 @@ Profile
 # Comments for you guys
 
 Don't forget to like and subscribe my youtube channel below,
-https://www.youtube.com/channel/UCBHTZGamiAnV5_PDOciVpow
+https://www.youtube.com/c/key94lo
 
 Hope it can help you to host your bot in your discord server!
 
