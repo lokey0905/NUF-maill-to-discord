@@ -1,24 +1,3 @@
-# The Test-bot 
-The discord bot files which I used in my discord bot tutorial video.
-
-# Including
-main.py 
--the lines of my robot
-
-requirements.txt 
--the packages I've been used when I am building my discord bot
-
-runtime.txt
--my python version which is used to make the discord bot
-
-Profile
--Profile of my discord bot
-
-# Comments for you guys
-
-Don't forget to like and subscribe my youtube channel below,
-https://www.youtube.com/c/key94lo
-
-Hope it can help you to host your bot in your discord server!
-
-Thanks you all!!!
+# The bot
+This bot is test for NFU mail and using discord bot to send mail contant
+這個機器人適用於測試接收NFU mail與利用discord機器人發送mail內容
